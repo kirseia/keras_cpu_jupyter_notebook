@@ -1,5 +1,8 @@
 # keras_cpu_jupyter_notebook
 
+## 준비물
+- docker 설치 
+    - Ref: https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html
 
 ## 빌드
 - docker build -t ${docker image name} .
